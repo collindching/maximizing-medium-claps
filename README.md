@@ -1,6 +1,8 @@
 # Maximizing Medium Claps
 
-_Uncover strategies for effective content writing on Medium_
+**_Uncovering strategies for effective content writing on Medium_**
+
+> Put a photo here
 
 On Medium, claps are upvotes. They are a form of social currency with real impact, and articles that receive more claps are more likely to be recommended to new readers. This is critical for viewability. 
 
@@ -12,6 +14,8 @@ In this project, I wanted to use data analysis to discover how content and forma
 - Step 4: Interpreting the model
 - Step 5: Visualizing the data and results
 
+You can view the code for each of the steps above by clicking on the links.
+
 #### 1. Scraping the data
 
 #### 2. Data processing and feature engineering
@@ -21,3 +25,7 @@ In this project, I wanted to use data analysis to discover how content and forma
 #### 4. Interpreting the model
 
 #### 5. Visualizing the data and results
+
+
+
+_Thanks to Harrison Jansma for inspiring this project. Special thanks to Yuan Huang, whose article recommender documentation served as a template for this project's documentations._
