@@ -28,4 +28,4 @@ You can view the code for each of the steps above by clicking on the links.
 
 
 
-_Thanks to Harrison Jansma for inspiring this project. Special thanks to Yuan Huang, whose article recommender documentation served as a template for this project's documentations._
+_Thanks to Harrison Jansma for inspiring this project. Andal thanks to Yuan Huang, whose article recommender documentation served as a template for this project's documentations._
