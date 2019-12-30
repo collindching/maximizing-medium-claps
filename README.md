@@ -2,7 +2,7 @@
 
 **_Uncovering strategies for effective content writing on Medium_**
 
-<img src="https://github.com/collindching/Maximizing-Medium-Claps/blob/master/img/typewriter.jpg" width="100">
+
 
 In this project, I wanted to use data analysis to discover how content and formatting decisions impact a Medium article's claps, with the goal of using these insights to help me maximize claps on my own articles. To this end I scraped a year of data science articles from Medium, parsed those articles for features, and developed several regression models to predict claps.
 
