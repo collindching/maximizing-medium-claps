@@ -14,11 +14,15 @@ In this project, I wanted to use data analysis to discover how content and forma
 
 #### Results
 
-![](/img/read_time_boxplot.png)
-
-![](/img/readability_boxplot.png)
-
-![](/img/pub_comparison_barpot.png)
+<p align="center">
+     <img src="https://github.com/collindching/Maximizing-Medium-Claps/blob/master/img/words_per_pic_barplot.png">
+</p>
+<p align="center">
+     <img src="https://github.com/collindching/Maximizing-Medium-Claps/blob/master/img/read_time_boxplot.png">
+</p>
+<p align="center">
+     <img src="https://github.com/collindching/Maximizing-Medium-Claps/blob/master/img/readability_boxplot.png">
+</p>
 
 #### Takeaways
 
