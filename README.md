@@ -4,7 +4,9 @@
 
 <img src="https://github.com/collindching/Maximizing-Medium-Claps/blob/master/img/typewriter.jpg" width="500">
 
-In this project, I wanted to use data analysis to discover how content and formatting decisions impact a Medium article's claps, with the goal of using these insights to help me maximize claps on my own articles. To this end I scraped a year of data science articles from Medium, parsed those articles for features, and developed several regression models to predict claps.
+In this project, I wanted to use data analysis to discover how content and formatting decisions impact a Medium article's claps, with the goal of using these insights to help me maximize claps on my own articles. To this end I scraped a year of data science articles from Medium, parsed those articles for features, and developed several regression models to predict claps. Check out my project writeup [here](https://medium.com/@collindching/how-to-maximize-claps-on-your-medium-articles-ce427cf327ff).
+
+#### Code
 
 - [Step 1](./1%20-%20Scraping.ipynb): Scraping the data 
 - [Step 2](./2%20-%20Feature%20Engineering.ipynb): Data processing and feature engineering
@@ -20,6 +22,9 @@ In this project, I wanted to use data analysis to discover how content and forma
 <p align="center">
      <img src="https://github.com/collindching/Maximizing-Medium-Claps/blob/master/img/read_time_boxplot.png">
 </p>
+
+</br>
+
 <p align="center">
      <img src="https://github.com/collindching/Maximizing-Medium-Claps/blob/master/img/readability_boxplot.png">
 </p>
