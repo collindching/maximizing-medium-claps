@@ -6,7 +6,7 @@
 
 In this project, I wanted to use data analysis to discover how content and formatting decisions impact a Medium article's claps, with the goal of using these insights to help me maximize claps on my own articles. To this end I scraped a year of data science articles from Medium, parsed those articles for features, and developed several regression models to predict claps.
 
-- [Step 1](../1 - Scraping.ipynb): Scraping the data 
+- [Step 1](1 - Scraping.ipynb): Scraping the data 
 - [Step 2](2 - Feature Engineering.ipynb): Data processing and feature engineering
 - [Step 3](3 - Modeling.ipynb): Building a regression model
 - [Step 4](4 - Model Interpretation.ipynb): Interpreting the model
@@ -14,11 +14,11 @@ In this project, I wanted to use data analysis to discover how content and forma
 
 #### Results
 
-![../img/read_time_boxplot.png]
+![](/img/read_time_boxplot.png)
 
-![../img/readability_boxplot.png]
+![](/img/readability_boxplot.png)
 
-![../img/pub_comparison_barpot.png]
+![](/img/pub_comparison_barpot.png)
 
 #### Takeaways
 
