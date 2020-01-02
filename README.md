@@ -16,7 +16,7 @@ In this project, I wanted to use data analysis to discover how content and forma
 - [Step 4](./4%20-%20Model%20Interpretation.ipynb): Interpreting the model
 - [Step 5](./5%20-%20Visualizations.ipynb): Visualizing the data and results
 
-#### Results
+#### Some results
 
 <p align="center">
      <img src="https://github.com/collindching/Maximizing-Medium-Claps/blob/master/img/words_per_pic_barplot.png">
@@ -30,6 +30,8 @@ In this project, I wanted to use data analysis to discover how content and forma
 <p align="center">
      <img src="https://github.com/collindching/Maximizing-Medium-Claps/blob/master/img/readability_boxplot.png">
 </p>
+
+More results available [here](https://medium.com/@collindching/how-to-maximize-claps-on-your-medium-articles-ce427cf327ff).
 
 #### Takeaways
 
