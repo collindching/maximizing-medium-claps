@@ -36,7 +36,7 @@ More results available [here](https://medium.com/@collindching/how-to-maximize-c
 #### Takeaways
 
 - Publish with a publication!
-- Publish with Towards Data Science
+- Publish with _Towards Data Science_ or _Analytics Vidhya_
 - Use bolding and italics frequently (when appropriate)
 - Long texts are okay!
 - Use pictures often in your articles
